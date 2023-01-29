@@ -1,0 +1,68 @@
+C:\Users\bahaa\source\CVAPP\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\bahaa\source\CVAPP\Business\bin\Debug\net5.0\Business.dll
+C:\Users\bahaa\source\CVAPP\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\bahaa\source\CVAPP\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\bahaa\source\CVAPP\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\bahaa\source\CVAPP\Business\bin\Debug\net5.0\Entities.dll
+C:\Users\bahaa\source\CVAPP\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\bahaa\source\CVAPP\Business\bin\Debug\net5.0\Entities.pdb
+C:\Users\bahaa\source\CVAPP\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\bahaa\source\CVAPP\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahaa\source\CVAPP\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\bahaa\source\CVAPP\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\bahaa\source\CVAPP\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\bahaa\source\CVAPP\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\bahaa\source\CVAPP\Business\obj\Debug\net5.0\Business.dll
+C:\Users\bahaa\source\CVAPP\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\bahaa\source\CVAPP\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\bin\Debug\net5.0\Business.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\bin\Debug\net5.0\Entities.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\bin\Debug\net5.0\Entities.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\bin\Debug\net5.0\Business.deps.json
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\bin\Debug\net5.0\Business.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\bin\Debug\net5.0\ref\Business.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\bin\Debug\net5.0\Business.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\bin\Debug\net5.0\DataAccess.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\bin\Debug\net5.0\Entities.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\bin\Debug\net5.0\Entities.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\obj\Debug\net5.0\ref\Business.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\bin\Debug\net5.0\Business.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\bin\Debug\net5.0\Entities.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\bin\Debug\net5.0\Entities.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Business\obj\Debug\net5.0\Business.pdb

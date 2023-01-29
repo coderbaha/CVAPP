@@ -1,0 +1,438 @@
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\appsettings.json
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\WebUI.exe
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\WebUI.deps.json
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.json
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.dev.json
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\WebUI.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\ref\WebUI.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\WebUI.pdb
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\WebUI.Views.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\WebUI.Views.pdb
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\Dapper.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\Dapper.Contrib.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\Business.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\DataAccess.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\Entities.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\Business.pdb
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\Entities.pdb
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.csproj.AssemblyReference.cache
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfoInputs.cache
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfo.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorAssemblyInfo.cache
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorAssemblyInfo.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.Manifest.cache
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.xml
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\scopedcss\bundle\WebUI.styles.css
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.TagHelpers.input.cache
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.TagHelpers.output.cache
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorCoreGenerate.cache
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.Views.pdb
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.csproj.CopyComplete
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.dll
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\ref\WebUI.dll
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.pdb
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\WebUI.genruntimeconfig.cache
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\libman.json
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\ChangePassword.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bahaa\source\CVAPP\WebUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Certification\Add.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Certification\Index.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Certification\Update.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\Add.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\Index.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\Update.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Experience\Add.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Experience\Index.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Experience\Update.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Interest\Add.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Interest\Index.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Interest\Update.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\Add.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\Index.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\Update.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\SocialMediaIcon\Add.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\SocialMediaIcon\Index.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\SocialMediaIcon\Update.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\NavbarComponent\Default.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutComponent\Default.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\ExperienceComponent\Default.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\EducationComponent\Default.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\SkillComponent\Default.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\InterestComponent\Default.cshtml.g.cs
+C:\Users\bahaa\source\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\CertificationComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\libman.json
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\appsettings.json
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.exe
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.deps.json
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.json
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.dev.json
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\ref\WebUI.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.Views.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.Views.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Dapper.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Dapper.Contrib.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Business.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\DataAccess.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Entities.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Business.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Entities.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.csproj.AssemblyReference.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfoInputs.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfo.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorAssemblyInfo.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorAssemblyInfo.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.Manifest.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.xml
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\scopedcss\bundle\WebUI.styles.css
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.TagHelpers.input.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.TagHelpers.output.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorCoreGenerate.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Certification\Add.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Certification\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Certification\Update.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\Add.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\Update.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Experience\Add.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Experience\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Experience\Update.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\ChangePassword.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Interest\Add.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Interest\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Interest\Update.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\Add.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\Update.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\SocialMediaIcon\Add.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\SocialMediaIcon\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\SocialMediaIcon\Update.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\CertificationComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\EducationComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\ExperienceComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\InterestComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\NavbarComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\SkillComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.Views.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.csproj.CopyComplete
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\ref\WebUI.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.genruntimeconfig.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\DapperExtensions.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Slapper.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Dapper.Oracle.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\libman.json
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\appsettings.json
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.exe
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.deps.json
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.json
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.dev.json
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\ref\WebUI.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.Views.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.Views.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\AutoMapper.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Dapper.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Dapper.Contrib.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Dapper.Oracle.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\DapperExtensions.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\FluentValidation.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Slapper.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Business.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\DataAccess.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Entities.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Business.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\DataAccess.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Entities.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.csproj.AssemblyReference.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfoInputs.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfo.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.csproj.CoreCompileInputs.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorAssemblyInfo.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorAssemblyInfo.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.Manifest.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.xml
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\scopedcss\bundle\WebUI.styles.css
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.TagHelpers.input.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.TagHelpers.output.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorCoreGenerate.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Certification\Add.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Certification\Index.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Certification\Update.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\Add.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\Index.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\Update.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Experience\Add.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Experience\Index.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Experience\Update.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\ChangePassword.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Interest\Add.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Interest\Index.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Interest\Update.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\Add.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\Index.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\Update.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\SocialMediaIcon\Add.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\SocialMediaIcon\Index.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\SocialMediaIcon\Update.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutComponent\Default.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\CertificationComponent\Default.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\EducationComponent\Default.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\ExperienceComponent\Default.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\InterestComponent\Default.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\NavbarComponent\Default.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\SkillComponent\Default.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorTargetAssemblyInfo.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorTargetAssemblyInfo.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.Views.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.csproj.CopyComplete
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\ref\WebUI.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.genruntimeconfig.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\appsettings.json
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\libman.json
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.exe
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.deps.json
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.json
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.dev.json
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\ref\WebUI.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.Views.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\WebUI.Views.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Dapper.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Dapper.Contrib.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Dapper.Oracle.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\DapperExtensions.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Slapper.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Business.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\DataAccess.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Entities.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Business.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\bin\Debug\net5.0\Entities.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.csproj.AssemblyReference.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfoInputs.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfo.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorAssemblyInfo.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorAssemblyInfo.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.Manifest.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.xml
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\scopedcss\bundle\WebUI.styles.css
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.TagHelpers.input.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.TagHelpers.output.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorCoreGenerate.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Certification\Add.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Certification\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Certification\Update.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\Add.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\Update.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Experience\Add.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Experience\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Experience\Update.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\ChangePassword.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Interest\Add.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Interest\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Interest\Update.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\Add.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\Update.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\SocialMediaIcon\Add.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\SocialMediaIcon\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\SocialMediaIcon\Update.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\CertificationComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\EducationComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\ExperienceComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\InterestComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\NavbarComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\SkillComponent\Default.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.Views.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.csproj.CopyComplete
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\ref\WebUI.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\WebUI\obj\Debug\net5.0\WebUI.genruntimeconfig.cache

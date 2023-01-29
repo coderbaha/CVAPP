@@ -1,0 +1,12 @@
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Helper\bin\Debug\net5.0\Helper.deps.json
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Helper\bin\Debug\net5.0\Helper.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Helper\bin\Debug\net5.0\ref\Helper.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Helper\bin\Debug\net5.0\Helper.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Helper\obj\Debug\net5.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Helper\obj\Debug\net5.0\Helper.AssemblyInfoInputs.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Helper\obj\Debug\net5.0\Helper.AssemblyInfo.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Helper\obj\Debug\net5.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Helper\obj\Debug\net5.0\Helper.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Helper\obj\Debug\net5.0\ref\Helper.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Helper\obj\Debug\net5.0\Helper.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Helper\obj\Debug\net5.0\Helper.csproj.AssemblyReference.cache

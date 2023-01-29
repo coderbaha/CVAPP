@@ -1,0 +1,60 @@
+C:\Users\bahaa\source\CVAPP\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\bahaa\source\CVAPP\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\bahaa\source\CVAPP\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\bahaa\source\CVAPP\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\bahaa\source\CVAPP\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\bahaa\source\CVAPP\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\bahaa\source\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\bahaa\source\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahaa\source\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\bahaa\source\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\bahaa\source\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\bahaa\source\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\bahaa\source\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\bahaa\source\CVAPP\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\bahaa\source\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\DataAccess\obj\Debug\net5.0\DataAccess.pdb

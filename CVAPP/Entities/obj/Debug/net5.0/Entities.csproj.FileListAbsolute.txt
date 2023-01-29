@@ -1,0 +1,48 @@
+C:\Users\bahaa\source\CVAPP\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\bahaa\source\CVAPP\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\bahaa\source\CVAPP\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\bahaa\source\CVAPP\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\bahaa\source\CVAPP\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\bahaa\source\CVAPP\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahaa\source\CVAPP\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\bahaa\source\CVAPP\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\bahaa\source\CVAPP\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\bahaa\source\CVAPP\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\bahaa\source\CVAPP\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\bahaa\source\CVAPP\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\T007388\Desktop\test\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Entities\bin\Debug\net5.0\Entities.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Entities\bin\Debug\net5.0\Entities.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\T007388\Desktop\Projects\CVAPP\CVAPP\Entities\obj\Debug\net5.0\Entities.pdb
